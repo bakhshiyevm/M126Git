@@ -9,6 +9,7 @@ namespace M126Git
     public class User
     {
         public int Id { get; set; } 
-        public string Surname { get; set; }    
+        public string Surname { get; set; }
+        public string Gender { get; set; }
     }
 }
