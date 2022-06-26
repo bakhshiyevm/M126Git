@@ -6,7 +6,7 @@ namespace M126Git
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("One day u will became developers");
         }
 
     }
