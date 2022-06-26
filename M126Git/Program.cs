@@ -6,6 +6,7 @@ namespace M126Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Bye bye everyone");
             Console.WriteLine("yaz divara murad avara");
         }
 
