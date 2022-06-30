@@ -6,7 +6,13 @@ namespace M126Git
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine(  "master chagnes serious code");
+            Console.WriteLine(  "master chagnes serious code");
+            Console.WriteLine(  "master chagnes serious code");
+            Console.WriteLine(  "master chagnes serious code");
+            Console.WriteLine(  "master chagnes serious code");
+            Console.WriteLine(  "master chagnes serious code");
+            Console.WriteLine(  "master chagnes serious code");
         }
 
     }
