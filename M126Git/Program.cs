@@ -6,6 +6,9 @@ namespace M126Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("yrtstewwe");
+
+            Console.WriteLine("sjsjsj");
             
         }
 
