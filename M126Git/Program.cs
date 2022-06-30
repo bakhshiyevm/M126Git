@@ -10,6 +10,7 @@ namespace M126Git
 
             Console.WriteLine("sjsjsj");
             
+            Console.WriteLine(  "master chagnes serious code");
         }
 
     }
